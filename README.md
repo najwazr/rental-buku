@@ -10,7 +10,7 @@ Fitur:
 - Manajemen Buku: tambah, edit, hapus, dan cari buku
 - Manajemen Member: elola data pelanggan rental
 - Transaksi Peminjaman: proses pinjam dan pengembalian buku
-- GUI: interface visual dengan Dear ImGui
+- Dual Interface (sesuai preferensi): GUI (Dear ImGui) dan Console 
 - Persistensi Data: load/save data dari/ke file
 - Color Coding: status visual (tersedia/dipinjam/aktif)
 
