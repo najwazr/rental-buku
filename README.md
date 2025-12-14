@@ -29,8 +29,7 @@ cd rental-buku
 
 2. Dependencies
 - Imgui Files
-https://github.com/ocornut/imgui → "Code" → "Download ZIP"
-Extract file yang dibutuhkan:
+https://github.com/ocornut/imgui → "Code" → "Download ZIP" → Extract file yang dibutuhkan:
 ```
 imgui/
 ├── imgui.h
