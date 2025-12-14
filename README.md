@@ -28,7 +28,7 @@ cd rental-buku
 ```
 
 2. Dependencies
-a. Imgui Files
+- Imgui Files
 https://github.com/ocornut/imgui → "Code" → "Download ZIP"
 Extract file yang dibutuhkan:
 ```
@@ -51,11 +51,11 @@ imgui/
     └── imgui_impl_opengl3.cpp
 ```
 
-b. GLFW Files
+- GLFW Files
 Windows: https://www.glfw.org/download.html
 Extract: 
-- include/GLFW/* → project/include/GLFW/
-- lib-mingw-w64/libglfw3.a → project/lib/
+1) include/GLFW/* → project/include/GLFW/
+2) lib-mingw-w64/libglfw3.a → project/lib/
 
 Compile
 1. Console Version (Windows)
