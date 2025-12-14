@@ -6,7 +6,7 @@
 
 Sistem Rental Buku adalah aplikasi berbasis Object-Oriented Programming (OOP) yang memungkinkan pengelolaan data buku, member, dan transaksi peminjaman dengan interface grafis yang modern dan user-friendly.
 
-Fitur:
+Features:
 - Manajemen Buku: tambah, edit, hapus, dan cari buku
 - Manajemen Member: elola data pelanggan rental
 - Transaksi Peminjaman: proses pinjam dan pengembalian buku
@@ -28,7 +28,7 @@ cd rental-buku
 
 2. Dependencies
 - Imgui Files
-https://github.com/ocornut/imgui → "Code" → "Download ZIP" → Extract file yang dibutuhkan:
+https://github.com/ocornut/imgui → "Code" → "Download ZIP" → extract file yang dibutuhkan:
 ```
 imgui/
 ├── imgui.h
