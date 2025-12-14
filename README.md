@@ -13,7 +13,6 @@ Fitur:
 - GUI: interface visual dengan Dear ImGui
 - Persistensi Data: load/save data dari/ke file
 - Color Coding: status visual (tersedia/dipinjam/aktif)
-- Cross-Platform: Windows, Linux, dan macOS
 
 Pre-installation
 - C++ Compiler (GCC 7.0+/MSVC 2019+/Clang)
