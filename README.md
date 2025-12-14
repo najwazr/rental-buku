@@ -3,8 +3,6 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![C++](https://img.shields.io/badge/C++-11-00599C.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 Sistem Rental Buku adalah aplikasi berbasis Object-Oriented Programming (OOP) yang memungkinkan pengelolaan data buku, member, dan transaksi peminjaman dengan interface grafis yang modern dan user-friendly.
 
