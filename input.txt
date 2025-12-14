@@ -1,0 +1,11 @@
+[BUKU]
+B001|Laskar Pelangi|Andrea Hirata|2005|1
+B002|Bumi Manusia|Pramoedya Ananta Toer|1980|0
+
+[MEMBER]
+M001|John Doe|Jl. Merdeka No. 10|081234567890
+M002|Jane Smith|Jl. Sudirman No. 5|082345678901
+
+[TRANSAKSI]
+T001|B002|M001|01-12-2024|-|aktif
+T002|B001|M002|28-11-2024|05-12-2024|selesai
