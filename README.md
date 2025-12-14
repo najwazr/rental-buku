@@ -50,11 +50,9 @@ imgui/
     └── imgui_impl_opengl3.cpp
 ```
 
-- GLFW Files
-Windows: https://www.glfw.org/download.html
-Extract: 
-1) include/GLFW/* → project/include/GLFW/
-2) lib-mingw-w64/libglfw3.a → project/lib/
+- GLFW Files (Windows): https://www.glfw.org/download.html 
+1) Extract: include/GLFW/* → project/include/GLFW/
+2) Extract: lib-mingw-w64/libglfw3.a → project/lib/
 
 Compile
 1. Console Version (Windows)
