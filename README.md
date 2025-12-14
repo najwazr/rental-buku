@@ -10,7 +10,7 @@ Fitur:
 - Manajemen Buku: tambah, edit, hapus, dan cari buku
 - Manajemen Member: elola data pelanggan rental
 - Transaksi Peminjaman: proses pinjam dan pengembalian buku
-- Dual Interface (sesuai preferensi): GUI (Dear ImGui) dan Console 
+- Dual Interface: GUI (Dear ImGui) dan Console 
 - Persistensi Data: load/save data dari/ke file
 - Color Coding: status visual (tersedia/dipinjam/aktif)
 
@@ -53,7 +53,7 @@ imgui/
 1) Extract: include/GLFW/* → rental-buku/include/GLFW/
 2) Extract: lib-mingw-w64/libglfw3.a → rental-buku/lib/
 
-# Compile
+# Compile - pilih sesuai preferensi
 **1. Console Version (Windows)**
 ```bash
 g++ main.cpp -o rental_buku.exe
