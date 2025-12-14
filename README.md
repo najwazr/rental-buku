@@ -53,7 +53,7 @@ imgui/
 1) Extract: include/GLFW/* → rental-buku/include/GLFW/
 2) Extract: lib-mingw-w64/libglfw3.a → rental-buku/lib/
 
-# Compile - pilih sesuai preferensi
+# Compile
 **1. Console Version (Windows)**
 ```bash
 g++ main.cpp -o rental_buku.exe
