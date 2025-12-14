@@ -76,8 +76,8 @@ rental_buku_gui
 ```
 
 References:
-- [Dear ImGui](https://github.com/ocornut/imgui) - Amazing immediate mode GUI library
-- [GLFW](https://www.glfw.org/) - Multi-platform window library
+- [Dear ImGui](https://github.com/ocornut/imgui) - immediate mode GUI library
+- [GLFW](https://www.glfw.org/) - multi-platform window library
 - [OpenGL](https://www.opengl.org/) - Graphics API
 
 *Last updated: December 2024*
