@@ -51,26 +51,27 @@ imgui/
 ```
 
 - GLFW Files (Windows): https://www.glfw.org/download.html 
-1) Extract: include/GLFW/* → project/include/GLFW/
-2) Extract: lib-mingw-w64/libglfw3.a → project/lib/
+1) Extract: include/GLFW/* → rental-buku/include/GLFW/
+2) Extract: lib-mingw-w64/libglfw3.a → rental-buku/lib/
 
-Compile
-1. Console Version (Windows)
+# Compile
+**1. Console Version (Windows)**
 ```bash
 g++ main.cpp -o rental_buku.exe
 ```
-Run:
+to run:
 ```bash
 rental_buku
 ```
-2. GUI Version
+
+**2. GUI Version**
 ```bash
 g++ src/main_gui.cpp imgui/*.cpp imgui/backends/imgui_impl_glfw.cpp imgui/backends/imgui_impl_opengl3.cpp ^
     -Iimgui -Iimgui/backends -Iinclude ^
     -Llib -lglfw3 -lopengl32 -lgdi32 ^
     -o rental_buku_gui.exe
 ```
-Run:
+to run:
 ```bash
 rental_buku_gui
 ```
