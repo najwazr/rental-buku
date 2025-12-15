@@ -13,7 +13,6 @@
 // Compile Linux:
 // g++ main_gui.cpp imgui*.cpp -lglfw -lGL -ldl -o rental_buku
 //
-// NOTE: Untuk kemudahan, saya rekomendasikan menggunakan CMake atau IDE seperti Visual Studio/CLion
 #include <windows.h>
 #include <GL/gl.h>
 
@@ -561,4 +560,5 @@ int main(int, char**) {
     glfwTerminate();
 
     return 0;
+
 }
